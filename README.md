@@ -1,20 +1,28 @@
 # dotfiles
 ### I use Arch Linux with the following packages
+- btop
 - discord
 - gimp
+- github-cli
 - gnome-keyring
 - hypridle
 - hyprland
 - hyprlock
 - hyprpaper
 - hyprsunset
+- iwd
 - kitty
-- nautilus
+- lf
+- nautilus 
+- neovim
+- neovim-symlinks (AUR)
 - obs-studio
 - ollama
 - qutebrowser
+- rust
 - steam
-- tofi
+- tofi (AUR)
+- ufw
 - xdg-desktop-portal
 - xdg-desktop-portal-hyprland
 - zed

@@ -2,6 +2,7 @@
 ### I use Arch Linux with the following packages
 - discord
 - gimp
+- gnome-keyring
 - hypridle
 - hyprland
 - hyprlock
@@ -9,9 +10,11 @@
 - hyprsunset
 - kitty
 - nautilus
-- obs-studio (obs)
+- obs-studio
 - ollama
 - qutebrowser
 - steam
-- tofi (tofi-drun)
-- zed (zeditor)
+- tofi
+- xdg-desktop-portal
+- xdg-desktop-portal-hyprland
+- zed

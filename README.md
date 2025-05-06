@@ -20,7 +20,7 @@
 - [neovim-symlinks](https://aur.archlinux.org/packages/neovim-symlinks)
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
-- [pipx](https://github.com/pypa/pip)
+- [pip](https://github.com/pypa/pip)
 - [pipx](https://github.com/pypa/pipx)
 - [pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)

@@ -1,28 +1,31 @@
-# dotfiles
-### I use Arch Linux with the following packages
-- btop
-- discord
-- gimp
-- github-cli
-- gnome-keyring
-- hypridle
-- hyprland
-- hyprlock
-- hyprpaper
-- hyprsunset
-- iwd
-- kitty
-- lf
-- nautilus 
-- neovim
-- neovim-symlinks (AUR)
-- obs-studio
-- ollama
-- qutebrowser
-- rust
-- steam
-- tofi (AUR)
-- ufw
-- xdg-desktop-portal
-- xdg-desktop-portal-hyprland
-- zed
+# nieuemma's configurations
+### I use [Arch Linux](https://archlinux.org/) with the following packages
+- [btop](https://github.com/aristocratos/btop)
+- [discord](https://discord.com)
+- [gimp](https://github.com/GNOME/gimp)
+- [git](https://git-scm.com/)
+- [github-cli](https://github.com/cli/cli)
+- [gnome-keyring](https://gitlab.gnome.org/GNOME/gnome-keyring)
+- [hypridle](https://github.com/hyprwm/hypridle)
+- [hyprland](https://github.com/hyprwm/hyprland)
+- [hyprlock](https://github.com/hyprwm/hyprlock)
+- [hyprpaper](https://github.com/hyprwm/hyprpaper)
+- [hyprsunset](https://github.com/hyprwm/hyprsunset)
+- [iwd](https://git.kernel.org/pub/scm/network/wireless/iwd.git)
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [lf](https://github.com/gokcehan/lf)
+- [nautilus](https://github.com/GNOME/nautilus)
+- [neovim](https://github.com/neovim/neovim)
+- [neovim-symlinks](https://aur.archlinux.org/packages/neovim-symlinks)
+- [obs-studio](https://github.com/obsproject/obs-studio)
+- [ollama](https://github.com/ollama/ollama)
+- [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+- [rust](https://github.com/rust-lang/rust)
+- [steam](https://github.com/ValveSoftware/steam-for-linux)
+- [tofi](https://aur.archlinux.org/packages/tofi)
+- [ufw](https://launchpad.net/ufw)
+- [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
+- [xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
+- [zed](https://github.com/zed-dev/zed)
+### I also use this software unavailable from Arch repositories
+[radion](https://gitlab.com/christosangel/radion/)

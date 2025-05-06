@@ -21,6 +21,7 @@
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
 - [pipx](https://github.com/pypa/pipx)
+- [pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)

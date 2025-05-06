@@ -6,6 +6,7 @@
 - [git](https://git-scm.com/)
 - [github-cli](https://github.com/cli/cli)
 - [gnome-keyring](https://gitlab.gnome.org/GNOME/gnome-keyring)
+- [helix](https://github.com/helix-editor/helix)
 - [hypridle](https://github.com/hyprwm/hypridle)
 - [hyprland](https://github.com/hyprwm/hyprland)
 - [hyprlock](https://github.com/hyprwm/hyprlock)

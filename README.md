@@ -1,5 +1,5 @@
 # nieuemma's configurations
-### I use [Arch Linux](https://archlinux.org/) with the following packages
+### I use [Arch Linux](https://archlinux.org/) with the following programs
 - [btop](https://github.com/aristocratos/btop)
 - [discord](https://discord.com)
 - [gimp](https://github.com/GNOME/gimp)

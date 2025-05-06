@@ -20,9 +20,11 @@
 - [neovim-symlinks](https://aur.archlinux.org/packages/neovim-symlinks)
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
+- [pipx](https://github.com/pypa/pip)
 - [pipx](https://github.com/pypa/pipx)
 - [pipx-in-pipx](https://github.com/mattsb42-meta/pipx-in-pipx)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+- [radion](https://gitlab.com/christosangel/radion/)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
 - [tofi](https://aur.archlinux.org/packages/tofi)
@@ -30,5 +32,3 @@
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
 - [xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
 - [zed](https://github.com/zed-dev/zed)
-### I also use this software unavailable from Arch repositories
-[radion](https://gitlab.com/christosangel/radion/)

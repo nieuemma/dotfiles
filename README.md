@@ -3,6 +3,7 @@
 - [btop](https://github.com/aristocratos/btop)
 - [discord](https://discord.com)
 - [epy](https://github.com/wustho/epy)
+- [thefuck](https://github.com/nvbn/thefuck)
 - [gimp](https://github.com/GNOME/gimp)
 - [git](https://git-scm.com/)
 - [github-cli](https://github.com/cli/cli)

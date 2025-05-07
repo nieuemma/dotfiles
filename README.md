@@ -16,6 +16,7 @@
 - [iwd](https://git.kernel.org/pub/scm/network/wireless/iwd.git)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [lf](https://github.com/gokcehan/lf)
+- [midnight commander](https://github.com/MidnightCommander/mc)
 - [mpv](https://github.com/mpv-player/mpv)
 - [nautilus](https://github.com/GNOME/nautilus)
 - [neovim](https://github.com/neovim/neovim)

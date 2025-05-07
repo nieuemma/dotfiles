@@ -32,6 +32,7 @@
 - [thefuck](https://github.com/nvbn/thefuck)
 - [tofi](https://aur.archlinux.org/packages/tofi)
 - [ufw](https://launchpad.net/ufw)
+- [wpa supplicant](https://w1.fi/wpa_supplicant/)
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
 - [xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
 - [zed](https://github.com/zed-dev/zed)

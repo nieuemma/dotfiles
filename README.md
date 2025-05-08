@@ -16,7 +16,6 @@
 - [hyprsunset](https://github.com/hyprwm/hyprsunset)
 - [iwd](https://git.kernel.org/pub/scm/network/wireless/iwd.git)
 - [kitty](https://github.com/kovidgoyal/kitty)
-- [midnight commander](https://github.com/MidnightCommander/mc)
 - [mpv](https://github.com/mpv-player/mpv)
 - [nautilus](https://github.com/GNOME/nautilus)
 - [obs-studio](https://github.com/obsproject/obs-studio)

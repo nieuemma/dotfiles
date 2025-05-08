@@ -1,8 +1,7 @@
 # nieuemma's configurations
-### I use [Arch Linux](https://archlinux.org/) with the following programs
+### I use [Arch Linux](https://archlinux.org/) with the following software
 - [btop](https://github.com/aristocratos/btop)
 - [discord](https://discord.com)
-- [epy](https://github.com/wustho/epy)
 - [gimp](https://github.com/GNOME/gimp)
 - [git](https://git-scm.com/)
 - [github-cli](https://github.com/cli/cli)
@@ -23,7 +22,6 @@
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-- [radion](https://gitlab.com/christosangel/radion/)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
 - [thefuck](https://github.com/nvbn/thefuck)

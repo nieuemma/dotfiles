@@ -23,6 +23,7 @@
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
+- [swayosd](https://github.com/erikreider/swayosd)
 - [thefuck](https://github.com/nvbn/thefuck)
 - [tofi](https://aur.archlinux.org/packages/tofi)
 - [ufw](https://launchpad.net/ufw)

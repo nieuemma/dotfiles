@@ -2324,7 +2324,7 @@ c.url.searchengines = {'DEFAULT': 'https://www.startpage.com/search?q={}'}
 # config.bind('o', 'cmd-set-text -s :open')
 # config.bind('pP', 'open -- {primary}')
 # config.bind('pp', 'open -- {clipboard}')
-config.bind('q', 'close')
+# config.bind('q', 'close')
 # config.bind('r', 'reload')
 # config.bind('sf', 'save')
 # config.bind('sk', 'cmd-set-text -s :bind')

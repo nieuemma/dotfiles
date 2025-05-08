@@ -18,6 +18,7 @@
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [mpv](https://github.com/mpv-player/mpv)
 - [nautilus](https://github.com/GNOME/nautilus)
+- [nfs-utils](https://nfs.sourceforge.net)
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)

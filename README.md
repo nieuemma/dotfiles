@@ -23,7 +23,8 @@
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
 - [playerctl](https://github.com/altdesktop/playerctl)
-- [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+- [qutebrowser](https://github.com/qutebrowser/qutebrowser)i
+- [rocm-smi-lib](https://github.com/ROCm/rocm_smi_lib)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
 - [swayosd](https://github.com/erikreider/swayosd)

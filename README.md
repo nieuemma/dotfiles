@@ -1,6 +1,7 @@
 # nieuemma's configurations
 ### I use [Arch Linux](https://archlinux.org/) with the following software
 - [btop](https://github.com/aristocratos/btop)
+- [clipse](https://github.com/savedra1/clipse)
 - [discord](https://discord.com)
 - [gimp](https://github.com/GNOME/gimp)
 - [git](https://git-scm.com/)
@@ -21,6 +22,7 @@
 - [nfs-utils](https://nfs.sourceforge.net)
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [ollama](https://github.com/ollama/ollama)
+- [playerctl](https://github.com/altdesktop/playerctl)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
@@ -29,6 +31,7 @@
 - [tofi](https://aur.archlinux.org/packages/tofi)
 - [ufw](https://launchpad.net/ufw)
 - [wget](https://www.gnu.org/software/wget)
+- [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
 - [xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
 - [zed](https://github.com/zed-dev/zed)

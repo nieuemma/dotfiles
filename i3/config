@@ -32,14 +32,14 @@ for_window [class="pop_up, bubble, task_dialog, Preferences, dialog, menu"] floa
 tiling_drag modifier titlebar
 
 # start a programs
-bindsym $mod+t exec uxterm -fa 'Monaspace Neon Frozen' -fs 11
-bindsym $mod+f exec uxterm -fa 'Monaspace Neon Frozen' -fs 11 -e sudo lf
-bindsym $mod+e exec uxterm -fa 'Monaspace Neon Frozen' -fs 11 -e sudo nvim ~/
-bindsym $mod+b exec uxterm -fa 'Monaspace Neon Frozen' -fs 11 -e sudo btop
-bindsym $mod+r exec uxterm -fa 'Monaspace Neon Frozen' -fs 11 -e sudo radio 
+bindsym $mod+t exec uxterm -fa  "Monaspace Neon Var' -fs 11
+bindsym $mod+f exec uxterm -fa  "Monaspace Neon Var' -fs 11 -e sudo lf
+bindsym $mod+e exec uxterm -fa  "Monaspace Neon Var' -fs 11 -e sudo nvim ~/
+bindsym $mod+b exec uxterm -fa  "Monaspace Neon Var' -fs 11 -e sudo btop
+bindsym $mod+r exec uxterm -fa  "Monaspace Neon Var' -fs 11 -e sudo radio 
 bindsym $mod+g exec display
-#bindsym $mod+# exec uxterm -fa 'Monaspace Neon Frozen' -fs 11
-#bindsym $mod+# exec uxterm -fa 'Monaspace Neon Frozen' -fs 11
+#bindsym $mod+# exec uxterm -fa  "Monaspace Neon Var' -fs 11
+#bindsym $mod+# exec uxterm -fa  "Monaspace Neon Var' -fs 11
 
 
 # kill focused window

@@ -1,6 +1,5 @@
 # nieuemma's configurations
 ### I use [Arch Linux](https://archlinux.org/) with the following software
-- [btop](https://github.com/aristocratos/btop)
 - [clipse](https://github.com/savedra1/clipse)
 - [discord](https://discord.com)
 - [gimp](https://github.com/GNOME/gimp)
@@ -24,7 +23,6 @@
 - [ollama](https://github.com/ollama/ollama)
 - [playerctl](https://github.com/altdesktop/playerctl)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-- [rocm-smi-lib](https://github.com/ROCm/rocm_smi_lib)
 - [rust](https://github.com/rust-lang/rust)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
 - [swayosd](https://github.com/erikreider/swayosd)

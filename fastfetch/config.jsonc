@@ -1,0 +1,14 @@
+{
+    "logo": { "type": "small" },
+
+    "modules": [
+        "os",
+        "kernel",
+        "uptime",
+        "shell",
+        "wm",
+        "icons",
+        "localip",
+        "DateTime",
+    ],
+}

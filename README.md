@@ -1,5 +1,7 @@
 # nieuemma's configurations
+
 ### I use [Arch Linux](https://archlinux.org/) with the following software
+
 - [clipse](https://github.com/savedra1/clipse)
 - [discord](https://discord.com)
 - [gimp](https://github.com/GNOME/gimp)
@@ -29,6 +31,7 @@
 - [thefuck](https://github.com/nvbn/thefuck)
 - [tofi](https://aur.archlinux.org/packages/tofi)
 - [ufw](https://launchpad.net/ufw)
+- [warp-terminal](https://github.com/warpdotdev/warp)
 - [wget](https://www.gnu.org/software/wget)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)

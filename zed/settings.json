@@ -14,6 +14,9 @@
     "buffer_font_family": "Adwaita Mono",
     "buffer_line_height": "standard",
     "tab_size": 4,
+    "restore_on_startup": "none",
+    "format_on_save": "prettier",
+    "formatter": "prettier",
     "theme": {
         "mode": "dark",
         "light": "Github Dark Dimmed",

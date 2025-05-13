@@ -1,7 +1,7 @@
 {
     "allowDuplicates": false,
     "historyFile": "clipboard_history.json",
-    "maxHistory": 100,
+    "maxHistory": 64,
     "logFile": "clipse.log",
     "themeFile": "custom_theme.json",
     "tempDir": "tmp_files",
@@ -17,7 +17,7 @@
         "prevPage": "left",
         "preview": " ",
         "quit": "q",
-        "remove": "x",
+        "remove": "d",
         "selectDown": "ctrl+down",
         "selectSingle": "s",
         "selectUp": "ctrl+up",

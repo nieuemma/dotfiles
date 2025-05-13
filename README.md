@@ -26,6 +26,7 @@
 - [playerctl](https://github.com/altdesktop/playerctl)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rust](https://github.com/rust-lang/rust)
+- [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces)
 - [steam](https://github.com/ValveSoftware/steam-for-linux)
 - [swayosd](https://github.com/erikreider/swayosd)
 - [thefuck](https://github.com/nvbn/thefuck)

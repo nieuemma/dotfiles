@@ -9,14 +9,14 @@
 {
     "vim_mode": true,
     "ui_font_size": 16,
-    "ui_font_family": "Adwaita Sans",
+    "ui_font_family": "Monaspace Neon Frozen",
     "buffer_font_size": 16,
-    "buffer_font_family": "Adwaita Mono",
+    "buffer_font_family": "Monaspace Neon Frozen",
     "buffer_line_height": "standard",
     "tab_size": 4,
+    "soft_wrap": "editor_width",
     "restore_on_startup": "none",
-    "format_on_save": "prettier",
-    "formatter": "prettier",
+    "format_on_save": "on",
     "theme": {
         "mode": "dark",
         "light": "Github Dark Dimmed",

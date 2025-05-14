@@ -23,7 +23,7 @@
 - [ollama](https://github.com/ollama/ollama)
 - [playerctl](https://github.com/altdesktop/playerctl)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-- [rust](https://github.com/rust-lang/rust)
+- [rustup](https://github.com/rust-lang/rustup)
 - [swayosd](https://github.com/erikreider/swayosd)
 - [warp-terminal](https://github.com/warpdotdev/warp)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)

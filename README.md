@@ -12,6 +12,7 @@
 - [hyprlock](https://github.com/hyprwm/hyprlock)
 - [hyprnome](https://github.com/donovanglover/hyprnome)
 - [hyprnotify](https://github.com/codelif/hyprnotify)
+- [hyproled](https://github.com/mklan/hyproled)
 - [hyprpaper](https://github.com/hyprwm/hyprpaper)
 - [hyprpicker](https://github.com/hyprwm/hyprpicker)
 - [hyprshot](https://github.com/Gustash/Hyprshot)

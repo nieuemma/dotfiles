@@ -24,7 +24,6 @@
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
 - [swayosd](https://github.com/erikreider/swayosd)
-- [warp-terminal](https://github.com/warpdotdev/warp)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [wlsunset](https://github.com/kennylevinsen/wlsunset)
 - [zed](https://github.com/zed-dev/zed)

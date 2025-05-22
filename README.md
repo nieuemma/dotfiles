@@ -15,7 +15,7 @@
 - [hyprpaper](https://github.com/hyprwm/hyprpaper)
 - [hyprpicker](https://github.com/hyprwm/hyprpicker)
 - [hyprshot](https://github.com/Gustash/Hyprshot)
-- [hyprsunset](https://github,com/hyprwm/hyprsunset)
+- [hyprsunset](https://github.com/hyprwm/hyprsunset)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [mpv](https://github.com/mpv-player/mpv)
 - [obs-studio](https://github.com/obsproject/obs-studio)

@@ -26,4 +26,4 @@
 - [swayosd](https://github.com/erikreider/swayosd)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [wlsunset](https://github.com/kennylevinsen/wlsunset)
-- [zsh](https://www.zsh.org)
+- [zsh4humans](https://github.com/romkatv/zsh4humans)

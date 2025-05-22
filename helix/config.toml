@@ -1,4 +1,4 @@
-theme = "github_dark"
+theme = "tokyonight"
 
 [editor]
 scrolloff = 2
@@ -8,9 +8,6 @@ true-color = true
 color-modes = true
 bufferline = 'multiple'
 default-yank-register = '+'
-
-[keys.insert]
-"C-[" = "normal_mode"
 
 [editor.soft-wrap]
 enable = true

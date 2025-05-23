@@ -1,7 +1,7 @@
 theme = "tokyonight"
 
 [editor]
-scrolloff = 2
+scrolloff = 0
 scroll-lines = 2
 line-number = 'absolute'
 true-color = true

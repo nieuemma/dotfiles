@@ -13,7 +13,7 @@ settings:
   content.notifications.enabled:
     https://www.youtube.com: false
   url.default_page:
-    global: https://www.startpage.com/do/mypage.pl?prfe=efc1d5ba2f1f81c42a20e43b8b5708d8513a748398c137599b472713f59e75c9cf43c5e77223484744d76e12f6cab43809f9c8203be5003a80880ab870d201f9eb2322e1b2e7a0f0bf0f5130
+    global: about:blank
   url.searchengines:
     global:
       DEFAULT: https://www.startpage.com/search?q={}
